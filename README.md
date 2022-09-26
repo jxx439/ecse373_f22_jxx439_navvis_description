@@ -1,12 +1,12 @@
 # ecse373_f22_jxx439_navvis_description
  
-including a robot model,name: navvis
+1. including a robot model,name: navvis
 
-lab2.xacro, lab2.urdf, urdf_from_xacro.urdf, lab2.launch, config.rviz
+2. lab2.xacro, lab2.urdf, urdf_from_xacro.urdf, lab2.launch, config.rviz
 
-gazebo_plugins package from (sudo apt-get install ros-noetic-gazebo-plugins) 
+3. gazebo_plugins package from (sudo apt-get install ros-noetic-gazebo-plugins) 
 
-velodyne_description package from (sudo apt-get install ros-noetic-velodyne-description)
+4. velodyne_description package from (sudo apt-get install ros-noetic-velodyne-description)
 
 ## joint_state_publisher_gui  :  
 ### by using the URDF 
