@@ -5,6 +5,7 @@ including a robot model,name: navvis
 lab2.xacro, lab2.urdf, urdf_from_xacro.urdf, lab2.launch, config.rviz
 
 gazebo_plugins package from (sudo apt-get install ros-noetic-gazebo-plugins) 
+
 velodyne_description package from (sudo apt-get install ros-noetic-velodyne-description)
 
 ## joint_state_publisher_gui  :  
