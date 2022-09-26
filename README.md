@@ -17,5 +17,5 @@
 ## joint_state_publisher (without GUI)  :  
 ### by using the URDF 
                    roslaunch navvis_description lab2.launch use_gui:=false
-### by using the XACRO (without GUI)  :  
+### by using the XACRO 
                    roslaunch navvis_description lab2.launch use_xacro:=true use_gui:=false
